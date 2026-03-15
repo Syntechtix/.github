@@ -4,7 +4,6 @@
  Intelligent Automation • DevOps • Azure • GitHub
 </p>
 </h2>
----
 
 ### AI Platform Engineering
 
