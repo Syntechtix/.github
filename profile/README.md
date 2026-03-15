@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://syntechtix.com">
-    <img src="images/header-clear.png" alt="Syntechtix" width="700">
+    <img src="../images/header-clear.png" alt="Syntechtix" width="700">
   </a>
 </p>
 
@@ -32,7 +32,7 @@ The **krnl51 CLI** provides a command-line interface for interacting with the Ke
 
 <p align="center">
   <a href="https://syntechtix.com/products/kernel51">
-    <img src="images/kernel51-logo-full-zap.png" alt="Kernel51" width="500">
+    <img src="../images/kernel51-logo-full-zap.png" alt="Kernel51" width="500">
   </a>
 </p>
 
