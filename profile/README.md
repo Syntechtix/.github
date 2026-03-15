@@ -1,11 +1,12 @@
+<h2>
 <p align="center">
-  <strong>AI-Powered Platform Engineering</strong><br>
-  Intelligent Automation • DevOps • Azure • GitHub
+ <strong>AI-Powered Platform Engineering</strong><br>
+ Intelligent Automation • DevOps • Azure • GitHub
 </p>
-
+</h2>
 ---
 
-## AI Platform Engineering
+### AI Platform Engineering
 
 Syntechtix builds **AI-powered engineering platforms** that help modern development teams automate and optimize how software is built, delivered, and operated.
 
@@ -13,7 +14,7 @@ Our solutions combine **AI orchestration, cloud infrastructure, and developer au
 
 ---
 
-## Kernel51
+### Kernel51
 
 **Kernel51** is the core orchestration engine behind the Syntechtix platform.
 
@@ -25,13 +26,13 @@ The **krnl51 CLI** provides a command-line interface for interacting with the Ke
 
 <p align="center">
   <a href="https://syntechtix.com/products/kernel51">
-    <img src="../images/kernel51-logo-full-zap.png" alt="Kernel51 AI Orchestrator" width="500">
+    <img src="../images/kernel51-logo-full-zap.png" alt="Kernel51 AI Orchestrator" width="200">
   </a>
 </p>
 
 ---
 
-## Platform Capabilities
+### Platform Capabilities
 
 Syntechtix solutions combine AI orchestration with modern development infrastructure:
 
@@ -42,13 +43,8 @@ Syntechtix solutions combine AI orchestration with modern development infrastruc
 
 ---
 
-## Learn More
+### Learn More
 
 - Website → https://syntechtix.com  
 - Kernel51 → https://syntechtix.com/products/kernel51  
 
----
-
-<p align="center">
-  Built by <strong>Syntechtix</strong>
-</p>
