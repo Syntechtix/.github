@@ -5,53 +5,53 @@
 </p>
 
 <p align="center">
-  <strong>Engineering Platforms for Modern Software Delivery</strong>
-</p>
-
-<p align="center">
-  DevOps • Platform Engineering • GitHub Automation • Azure Infrastructure • AI Engineering
+  <strong>AI-Powered Platform Engineering</strong><br>
+  Intelligent Automation • DevOps • Azure • GitHub
 </p>
 
 ---
 
-## About Syntechtix
+## AI Platform Engineering
 
-Syntechtix builds engineering platforms and automation systems that help organizations modernize how software is designed, built, and delivered.
+Syntechtix builds **AI-powered engineering platforms** that help modern development teams automate and optimize how software is built, delivered, and operated.
 
-Our work centers on **DevOps platform engineering, GitHub automation, and Azure infrastructure**, helping teams improve developer workflows, automate CI/CD pipelines, and implement scalable engineering practices across the entire software delivery lifecycle.
+Our solutions combine **AI orchestration, cloud infrastructure, and developer automation** to create intelligent systems that continuously improve engineering workflows. By integrating artificial intelligence into the software delivery lifecycle, we enable organizations to build adaptive platforms that reduce operational complexity and increase development velocity.
 
 ---
 
 ## Kernel51
 
-**Kernel51** is a microkernel-based orchestration engine designed to support modular automation and platform integration.
+**Kernel51** is the core orchestration engine behind the Syntechtix platform.
 
-Rather than relying on tightly coupled tooling, Kernel51 provides a **pluggable runtime architecture** where capabilities can be implemented as independent modules. This approach allows automation platforms to evolve over time while maintaining a stable core and avoiding unnecessary system complexity.
+Kernel51 is a **microkernel-based automation runtime** designed to orchestrate development workflows across modern cloud platforms. Built around a modular architecture, Kernel51 enables capabilities to be added as independent components while maintaining a stable and extensible core.
 
-The **krnl51 CLI** provides a command-line interface for interacting with the Kernel51 runtime, enabling engineers to execute workflows, manage modules, and integrate automation directly into modern development and DevOps environments.
+Kernel51 integrates **AI-driven intelligence** directly into the orchestration layer. These capabilities help automate decisions, optimize workflows, and provide predictive insights across development environments.
+
+The **krnl51 CLI** provides a command-line interface for interacting with the Kernel51 runtime, enabling engineers to execute workflows, manage modules, and integrate automation into modern DevOps environments.
 
 <p align="center">
   <a href="https://syntechtix.com/products/kernel51">
-    <img src="../images/kernel51-logo-full-zap.png" alt="Kernel51" width="500">
+    <img src="../images/kernel51-logo-full-zap.png" alt="Kernel51 AI Orchestrator" width="500">
   </a>
 </p>
 
 ---
 
-## Core Focus Areas
+## Platform Capabilities
 
-- DevOps platform engineering  
-- GitHub enterprise automation  
-- Azure infrastructure architecture  
-- CI/CD pipeline design and automation  
-- Developer platform tooling  
+Syntechtix solutions combine AI orchestration with modern development infrastructure:
+
+- **AI Platform Engineering** — LLM orchestration, MLOps automation, and intelligent platform systems  
+- **Azure AI Integration** — Cloud-native AI architecture and Azure OpenAI integration  
+- **GitHub AI Automation** — AI-enhanced workflow automation and intelligent CI/CD pipelines  
+- **DevOps Engineering** — End-to-end automation and platform reliability systems  
 
 ---
 
 ## Learn More
 
-- Website: https://syntechtix.com  
-- Kernel51: https://syntechtix.com/products/kernel51  
+- Website → https://syntechtix.com  
+- Kernel51 → https://syntechtix.com/products/kernel51  
 
 ---
 
