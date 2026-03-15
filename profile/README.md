@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://syntechtix.com">
-    <img src="../images/header-clear.png" alt="Syntechtix" width="700">
-  </a>
-</p>
-
-<p align="center">
   <strong>AI-Powered Platform Engineering</strong><br>
   Intelligent Automation • DevOps • Azure • GitHub
 </p>
