@@ -13,7 +13,7 @@ Our solutions combine **AI orchestration, cloud infrastructure, and developer au
 
 ---
 
-### Kernel51
+### Kernel51 
 
 **Kernel51** is the core orchestration engine behind the Syntechtix platform.
 
