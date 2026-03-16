@@ -25,7 +25,7 @@ The **krnl51 CLI** provides a command-line interface for interacting with the Ke
 
 <p align="center">
   <a href="https://syntechtix.com/products/kernel51">
-    <img src="../images/kernel51-full-new.png" alt="Kernel51 AI Orchestrator" width="300">
+    <img src="../images/kernel51-logo-full.png" alt="Kernel51 AI Orchestrator" width="300">
   </a>
 </p>
 
